@@ -1,0 +1,34 @@
+# dependencies
+node_modules/
+
+# builds
+dist/
+dist-*/ 
+out/
+release/
+*.asar
+
+# electron-builder output
+build/
+*.exe
+*.msi
+*.dmg
+*.AppImage
+*.deb
+*.rpm
+*.zip
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+
+# env
+.env
+.env.*
+.DS_Store
+
+# vite
+.vite/
