@@ -4,6 +4,7 @@ Local Electron + Vite + React desktop app. Data stored locally as JSON via Elect
 
 ## Dev
 npm install
+
 npm run dev
 
 ## Build (prod assets)
